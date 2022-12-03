@@ -30,7 +30,8 @@ body {
 </head>
 <body>
 
-<h1 class="glow">GLOWING TEXT</h1>
+<h1 class="glow">SRIVALLI</h1>
+<h1 class="glow">bhargavi</h>1
      
 </body>
 </html> 
